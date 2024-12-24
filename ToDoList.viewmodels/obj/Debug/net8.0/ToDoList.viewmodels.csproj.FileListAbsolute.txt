@@ -1,0 +1,12 @@
+D:\UpgradeMySelf\dotnet\repos\API-ToDoList\API-ToDoList\ToDoList.viewmodels\bin\Debug\net8.0\ToDoList.viewmodels.deps.json
+D:\UpgradeMySelf\dotnet\repos\API-ToDoList\API-ToDoList\ToDoList.viewmodels\bin\Debug\net8.0\ToDoList.viewmodels.dll
+D:\UpgradeMySelf\dotnet\repos\API-ToDoList\API-ToDoList\ToDoList.viewmodels\bin\Debug\net8.0\ToDoList.viewmodels.pdb
+D:\UpgradeMySelf\dotnet\repos\API-ToDoList\API-ToDoList\ToDoList.viewmodels\obj\Debug\net8.0\ToDoList.viewmodels.csproj.AssemblyReference.cache
+D:\UpgradeMySelf\dotnet\repos\API-ToDoList\API-ToDoList\ToDoList.viewmodels\obj\Debug\net8.0\ToDoList.viewmodels.GeneratedMSBuildEditorConfig.editorconfig
+D:\UpgradeMySelf\dotnet\repos\API-ToDoList\API-ToDoList\ToDoList.viewmodels\obj\Debug\net8.0\ToDoList.viewmodels.AssemblyInfoInputs.cache
+D:\UpgradeMySelf\dotnet\repos\API-ToDoList\API-ToDoList\ToDoList.viewmodels\obj\Debug\net8.0\ToDoList.viewmodels.AssemblyInfo.cs
+D:\UpgradeMySelf\dotnet\repos\API-ToDoList\API-ToDoList\ToDoList.viewmodels\obj\Debug\net8.0\ToDoList.viewmodels.csproj.CoreCompileInputs.cache
+D:\UpgradeMySelf\dotnet\repos\API-ToDoList\API-ToDoList\ToDoList.viewmodels\obj\Debug\net8.0\ToDoList.viewmodels.dll
+D:\UpgradeMySelf\dotnet\repos\API-ToDoList\API-ToDoList\ToDoList.viewmodels\obj\Debug\net8.0\refint\ToDoList.viewmodels.dll
+D:\UpgradeMySelf\dotnet\repos\API-ToDoList\API-ToDoList\ToDoList.viewmodels\obj\Debug\net8.0\ToDoList.viewmodels.pdb
+D:\UpgradeMySelf\dotnet\repos\API-ToDoList\API-ToDoList\ToDoList.viewmodels\obj\Debug\net8.0\ref\ToDoList.viewmodels.dll
